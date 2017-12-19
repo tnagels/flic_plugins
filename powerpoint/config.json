@@ -1,0 +1,29 @@
+{
+	"pluginName": "Powerpoint",
+	"pluginDescription": "Control for PowerPoint slides",
+	"pluginReadMore": "Easily control your powerpoint slides with your Flic button.",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Next Slide",
+			"fileName": "next.scpt",
+		},
+		{
+			"actionName": "Previous Slide",
+			"fileName": "previous.scpt",
+		},
+		{
+			"actionName": "First Slide",
+			"fileName": "first.scpt",
+		},
+		{
+			"actionName": "Black Screen",
+			"fileName": "black.scpt",
+		},
+		{
+			"actionName": "White Screen",
+			"fileName": "white.scpt",
+		}
+	]
+}
