@@ -1,7 +1,7 @@
 {
-	"pluginName": "Powerpoint",
-	"pluginDescription": "Control for PowerPoint slides",
-	"pluginReadMore": "Easily control your powerpoint slides with your Flic button.",
+	"pluginName": "Presenter",
+	"pluginDescription": "Control for PowerPoint / Google Slides",
+	"pluginReadMore": "Easily control your PowerPoint or Google Slides with your Flic button.",
 	"protocolVersion": 1,
 	"actions":
 	[
